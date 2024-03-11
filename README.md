@@ -1,3 +1,6 @@
+#Flynn note: The idea of this code is cool, but it seems to be deprecatted - it is a langchain repo that allows you to query an LLM about github repositories. If you figure out a fix, please let me know! :D
+https://www.youtube.com/watch?v=gz9-QhpwYTs&ab_channel=cmoorelabs
+
 # Code Repository Explorer
 
 Explore and ask questions about a GitHub code repository using OpenAI's GPT-3 language model.
